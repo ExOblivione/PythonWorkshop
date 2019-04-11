@@ -1,5 +1,13 @@
 # PythonWorkshop
 
+### Workshop Code
+Notebooks with all the code we wrote at the workshop. These files you can simply import into your own Notebook.
+
+### Hands-on
+The folder holds pictures of keywords and operators of Python. You can find the lists we work with during the workshops: ListsForFirstPart.py.
+Also find an installation manual for the IPython Notebook.
+There are other datasets for you that could be used for data science operations.
+
 ### Final Project datasets
 Find these files in the FinalProject_csvs folder!
 
